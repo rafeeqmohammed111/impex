@@ -1,0 +1,292 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.firstdiv {
+    width: 100%;
+    height: 25px;
+    background-color: rgb(255, 0, 0);
+
+}
+
+.firstdiv p {
+    margin-bottom: -25px;
+    margin-left: 219px;
+}
+
+.whitediv {
+    width: 100%;
+    height: 154px;
+    background-color: rgb(255, 255, 255);
+}
+
+.searchbar {
+    position: absolute;
+    width: 71%;
+    height: 44px;
+    background-color: white;
+    border: 10px;
+    border-color: black;
+    box-shadow: 5px;
+    margin-top: 50px;
+    margin-left: 182px;
+    padding-right: 0px;
+    box-shadow: 0 0 5PX;
+}
+
+.redsearch {
+    width: 50px;
+    height: 44px;
+    background-color: red;
+    float: right;
+
+
+}
+
+.srch {
+    height: 25px;
+    width: -111px;
+    color: black;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.what {
+
+    color: rgb(236, 223, 204);
+    margin-top: -50px;
+}
+
+.impex {
+
+    margin-left: -122px;
+    height: 65px;
+    width: 44px;
+}
+
+.topletters p {
+    position: absolute;
+    color: rgb(0, 0, 0);
+    margin-top: -111px;
+    margin-left: -140px;
+}
+
+.options ul {
+    list-style: none;
+    display: flex;
+    color: rgb(0, 0, 0);
+    margin-top: 25px;
+    margin-top: -35px;
+    line-height: 159px;
+    justify-content: flex-start;
+    margin-right: 25px;
+    cursor: pointer;
+
+}
+
+.options li {
+    margin-left: 30px;
+}
+
+.add img {
+    width: 100%;
+}
+
+.subimages img {
+    display: flex;
+}
+/* .fst{
+    display: flex;
+    position: relative;
+} */
+.fst img {
+    height: 33%;
+    width: 33%;
+    margin-top: 30px;
+}
+.buttons{
+    display: flex;
+}
+.buttons button{
+    color: #ffffff;
+    background-color: #ec1c24;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 4px;
+    width: 120px;
+    height: 50px;
+    border: none;
+}
+.buttons .buttonone button{
+    margin-left: 50px;
+    margin-top: -20px;
+}
+.buttons .buttontwo button{
+    margin-left: 330px;
+    margin-top: -20px;
+}
+.buttons .buttonthree button{
+    margin-left: 340px;
+    margin-top: -20px;
+}
+.buttons button:hover{
+    opacity: .9;
+}
+.buttonone{
+    /* color: #ffffff;
+    background-color: #ec1c24; */
+    margin-top: -50px;
+    margin-left: 100px;
+}
+.buttontwo{
+    margin-top: -50px;
+    /* margin-left: 200px; */
+}
+.buttonthree{
+    z-index: 10;
+    margin-top: -50px;
+    /* margin-left: 800px; */
+}
+.snd img {
+    height: 33%;
+    width: 33%;
+    margin-left: 450px;
+    margin-top: -308px;
+}
+
+.trd img {
+    height: 33%;
+    width: 33%;
+    margin-left: 900px;
+    margin-top: -308px;
+}
+
+.sales {
+    height: 170px;
+    width: 100%;
+    background-color: rgb(145, 142, 132);
+    margin-top: 67px;
+    cursor: pointer;
+}
+
+.blueimage img {
+    height: 330px;
+    width: 100%;
+    background-color: rgb(209, 173, 55);
+    margin-top: 95px;
+
+}
+
+.last {
+    width: 100;
+    height: 550px;
+    background-color: rgb(228, 228, 228);
+    margin-top: 40px;
+}
+
+.last1 ul {
+    list-style: none;
+    display: flex;
+    color: rgb(0, 0, 0);
+    /* margin-top: 30px; */
+    padding-top: 30px;
+    /* line-height: 159px; */
+    justify-content: flex-start;
+    margin-right: 25px;
+    cursor: pointer;
+
+
+}
+
+.last div {
+    padding-top: 30px;
+}
+
+.last1 li {
+    margin-left: 157px;
+    font-weight: bold;
+    font-family: Nunito Sans, sans-serif;
+}
+
+.needhelp {
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    margin-top: -60px;
+    margin-left: 355px;
+
+}
+
+.needhelp li {
+    list-style: none;
+    margin-left: 25px;
+    line-height: 20px;
+    margin-top: 20px;
+}
+
+.moreinfo {
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    margin-top: -25px;
+    margin-left: 125px;
+
+}
+
+.moreinfo li {
+    list-style: none;
+    margin-left: 25px;
+    line-height: 55px;
+    margin-top: -25px;
+}
+
+/* .moreinfo p {
+    padding-top: -10px;
+} */
+/* .moreinfo1 li {
+    margin-top: 0px;
+    padding-top: 18px; 
+} */
+.social {
+    font-size: 21px;
+    padding-left: 150px;
+}
+.impexnews{
+    margin-left: 855px;
+    margin-top: -241px;
+  
+}
+.searchbox{
+    height: 3%;
+    width: 20%;
+    background-color: white;
+    border: 0.5px solid rgb(168, 165, 165);
+    margin-left: 807px;
+    margin-top: 59px;
+   
+}
+
+.searchbox p{
+    color: rgb(150, 155, 160);
+    margin-top: -14px;
+    font-size: 17px;
+    margin-left: 10px;
+}
+.signup {
+   height: 24px;
+   width: 88px;
+   background-color: #ec1c24;
+   margin-left: 807px;
+   margin-top: 10px;
+}
+.signup p{
+    margin-left: 6px ;
+    margin-top: -16px;
+    color: rgb(255, 233, 233);
+    font-size: x-large;
+    border-radius: 1px;
+}
+.policy {
+    margin-left:   21px;
+}
